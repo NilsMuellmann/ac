@@ -1,4 +1,4 @@
-# Assesment Center GalileiConsult e.V.
+# Assessment Center GalileiConsult e.V.
 ## Herzlichen Glückwunsch.
 Zu diesem Zeitpunkt hast du dich gegen viele andere Bewerber und Bewerberinnen durchgesetzt. Mit dem Herunterladen der Daten aus GitHub hast du die erste Hürde bereits überwunden. Nun stehst du vor der 24h Case-Study. Viel Spaß!
 
